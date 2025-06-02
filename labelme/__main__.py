@@ -6,6 +6,7 @@ import os.path as osp
 import sys
 
 import yaml
+import osam
 from loguru import logger
 from PyQt5 import QtCore
 from PyQt5 import QtWidgets
